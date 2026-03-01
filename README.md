@@ -75,4 +75,14 @@ npm install
 
 Run the tests:
 
-npx playwright test
+npx playwright test 
+
+AI Integration
+
+In this project, AI tools were utilized to:
+
+Generate comprehensive edge-case scenarios for the DNS scanner module.
+
+Optimize Playwright locators for better test stability.
+
+Rapidly document the bug report and test case structure.
