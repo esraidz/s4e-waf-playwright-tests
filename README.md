@@ -65,6 +65,17 @@ Detailed documentation is available in:
 - TypeScript
 
 ---
+AI Integration
+
+In this project, AI tools were utilized to:
+
+Generate comprehensive edge-case scenarios for the DNS scanner module.
+
+Optimize Playwright locators for better test stability.
+
+Rapidly document the bug report and test case structure.
+
+---
 
 ## Running the Tests
 
@@ -77,12 +88,3 @@ Run the tests:
 
 npx playwright test 
 
-AI Integration
-
-In this project, AI tools were utilized to:
-
-Generate comprehensive edge-case scenarios for the DNS scanner module.
-
-Optimize Playwright locators for better test stability.
-
-Rapidly document the bug report and test case structure.
